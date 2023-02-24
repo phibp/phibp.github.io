@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>spamter!</title>
+    <style>
+        body{text-align: center;}
+    </style>
+</head>
+<body>
+    <h1>
+        welcome to the land of the spamter
+    </h1>
+    <p>
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+        <img src="spamter.gif" width="300" height="350">
+    </p>   
+    <footer>
+        <a href="index.html">
+            back to home page
+        </a>
+    </footer> 
+</body>
+</html>

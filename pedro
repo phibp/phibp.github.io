@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>~pedro~</title>
+    <style>
+        body{text-align: center;background-color: dimgray;}
+    </style>
+</head>
+<body>
+    <h1>
+        marry <del>me</del> my mum
+    </h1>
+    <p>
+     <img src="pedaddy.gif">
+     <img src="pedro bath.gif" width="270" height="185">
+    </p>
+    <p>
+     <img src="pedcool.gif">
+     <img src="pedro laugh.gif">
+    </p>
+    <footer>
+        <a href="index.html">
+            back to home page
+        </a>
+    </footer>
+</body>
+</html>
