@@ -13,7 +13,7 @@
     <h1>correct!</h1>
     <p><img src="leftshark.gif"></p>
     <footer>
-        <a href="index.html">
+        <a href="/">
             back to home page
         </a>
     </footer>
