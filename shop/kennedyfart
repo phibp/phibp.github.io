@@ -15,7 +15,7 @@
     <h1>your order was successful!</h1>
     <p>(no it wasnt)</p>
     <footer>
-        <a href="index.html">
+        <a href="/shop/">
             back to shop
         </a>
     </footer>
