@@ -12,15 +12,14 @@ li
 {
     float: left;
 }
-li a
+#header
 {
-    text-decoration: none;
     color: palevioletred;
     display: block;
     padding: 10px;
     font-size: 150%;
 }
-li a:hover
+#header:hover
 {
     background-color: lightgrey;
 }

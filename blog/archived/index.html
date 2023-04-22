@@ -6,6 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>perhaps the archives are incomplete!</title>
     <link rel="stylesheet" href="/blog/blog.css">
+    <style>
+        ol
+        {
+            list-style: circle;
+            margin-left: 43%;
+        }
+        #archive
+        {
+            float: none;
+            color: black;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -34,28 +46,45 @@
         </h1>
         <ul>
             <li>
-                <a href="/">
+                <a href="/" style="text-decoration: none;">
+                    <div id="header">
                     home
+                    </div>
                 </a>
             </li>
             <li>
-                <a href="/shop">
+                <a href="/shop" style="text-decoration: none;">
+                    <div id="header">
                     shop
+                    </div>
                 </a>
             </li>
             <li>
-                <a href="/music">
+                <a href="/music" style="text-decoration: none;">
+                    <div id="header">
                     music
+                    </div>
                 </a>
             </li>
             <li>
-                <a href="/blog">
+                <a href="/blog" style="text-decoration: none;">
+                    <div id="header">
                     blog
+                    </div>
                 </a>
             </li>
         </ul>
     </header>
     <h1>archived blog posts</h1>
-    <p>hmm... looks like there's nothing archived yet.</p>
+    <p>
+        <a href="/blog">
+            back
+        </a>
+    </p>
+    <ol>
+        <div id="archive">
+        <li><a href="2023-04-18">April 18, 2023</a></li>
+        </div>
+    </ol>
 </body>
 </html>
