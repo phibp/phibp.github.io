@@ -1,0 +1,60 @@
+ul
+{
+    list-style: none;
+    padding: 0%;
+    overflow: hidden;
+    background-color: aqua;
+    margin: 0%;
+    margin-left: 41%;
+    margin-right: 42.19%;
+}
+li
+{
+    float: left;
+}
+#header
+{
+    color: palevioletred;
+    display: block;
+    padding: 10px;
+    font-size: 150%;
+}
+#header:hover
+{
+    background-color: lightgrey;
+}
+header
+{
+    background-color: white;
+    padding: 10px;
+    background-image: url(/Spamtonlaugh.webp);
+    background-size: 9%;
+}
+body
+{
+    background-color:palevioletred;
+    color: white;
+    text-align: center;
+    background-image: url(/shrekWHATp.jpg);
+    background-size: 15%;
+}
+table
+{
+    color: black;
+    width: 720px;
+    background-color: white;
+}
+th
+{
+    font-size: 150%;
+    padding: 10px;
+}
+td
+{
+    text-align: left;
+    padding: 10px;
+}
+a
+{
+    color: blue;
+}
