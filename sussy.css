@@ -1,0 +1,33 @@
+ul
+{
+    list-style: none;
+    padding: 0%;
+    overflow: hidden;
+    background-color: aqua;
+    margin: 0%;
+    margin-left: 38%;
+    width: 318px;
+}
+li
+{
+    float: left;
+}
+li a
+{
+    text-decoration: none;
+    color: palevioletred;
+    display: block;
+    padding: 10px;
+    font-size: 150%;
+}
+li a:hover
+{
+    background-color: lightgrey;
+}
+header
+{
+    background-color: white;
+    padding: 10px;
+    background-image: url(Spamtonlaugh.webp);
+    background-size: 47px;
+}
