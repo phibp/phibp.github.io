@@ -35,3 +35,11 @@ header
     background-image: url(Spamtonlaugh.webp);
     background-size: 47px;
 }
+
+
+
+footer
+{
+    background-color: black; 
+    padding: 10px;
+}
