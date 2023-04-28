@@ -1,0 +1,97 @@
+header ul
+{
+    list-style: none;
+    padding: 0%;
+    overflow: hidden;
+    background-color: aqua;
+    margin: 0%;
+    margin-left: 38%;
+    width: 318px;
+}
+
+header li
+{
+    float: left;
+}
+
+header li a
+{
+    text-decoration: none;
+    color: palevioletred;
+    display: block;
+    padding: 10px;
+    font-size: 150%;
+}
+
+header li a:hover
+{
+    background-color: lightgrey;
+}
+
+header
+{
+    background-color: white;
+    padding: 10px;
+    background-image: url(/Spamtonlaugh.webp);
+    background-size: 47px;
+}
+
+
+
+body
+{
+    background-color: darkslateblue;
+    text-align: center;
+    color: white;
+}
+
+
+
+.content td
+{
+    padding: 10px;
+}
+
+
+
+ol
+{
+    text-align: left;
+    font-size: 135%;
+}
+
+ol li
+{
+    color: red;
+}
+
+
+
+.download th
+{
+    color: aqua;
+    font-size: 150%;
+}
+
+.download td
+{
+    font-size: 200%;
+    color: chartreuse;
+}
+.download a
+{
+    color: chartreuse;
+}
+
+
+.tracklist table
+{
+    background-color: white;
+    padding: 10px;
+    color:cornflowerblue;
+}
+
+.tracklist th
+{
+    font-size: 180%;
+}
