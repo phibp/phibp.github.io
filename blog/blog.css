@@ -8,10 +8,12 @@ header ul
     margin-left: 38%;
     width: 318px;
 }
+
 header li
 {
     float: left;
 }
+
 header li a
 {
     color: palevioletred;
@@ -20,10 +22,12 @@ header li a
     font-size: 150%;
     text-decoration: none;
 }
+
 header li a:hover
 {
     background-color: lightgrey;
 }
+
 header
 {
     background-color: white;
@@ -31,6 +35,9 @@ header
     background-image: url(/Spamtonlaugh.webp);
     background-size: 47px;
 }
+
+
+
 body
 {
     background-color:palevioletred;
@@ -39,22 +46,30 @@ body
     background-image: url(/shrekWHATp.jpg);
     background-size: 15%;
 }
+
+
+
 table
 {
     color: black;
     width: 720px;
     background-color: white;
 }
+
 th
 {
     font-size: 150%;
     padding: 10px;
 }
+
 td
 {
     text-align: left;
     padding: 10px;
 }
+
+
+
 a
 {
     color: blue;
