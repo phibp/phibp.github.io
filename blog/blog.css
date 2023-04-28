@@ -1,4 +1,4 @@
-ul
+header ul
 {
     list-style: none;
     padding: 0%;
@@ -8,18 +8,19 @@ ul
     margin-left: 38%;
     width: 318px;
 }
-li
+header li
 {
     float: left;
 }
-#header
+header li a
 {
     color: palevioletred;
     display: block;
     padding: 10px;
     font-size: 150%;
+    text-decoration: none;
 }
-#header:hover
+header li a:hover
 {
     background-color: lightgrey;
 }
